@@ -30,10 +30,9 @@ const About = () => {
                 <div className="a-award">
                     <img src={Award} alt="" className="a-award-img" />
                     <div className="a-award-texts">
-                        <h4 className="a-award-title">International Design Awards 2021</h4>
+                        <h4 className="a-award-title">Archievement in 2021</h4>
                             <p className="a-award-desc">
-                                Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-                                and fugit.
+                                Developing a restaurant management system including all stages of financial management, asset management, human resource management.
                             </p>
                     </div>
                 </div>
