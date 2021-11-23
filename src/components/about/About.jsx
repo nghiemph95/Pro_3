@@ -24,7 +24,7 @@ const About = () => {
                 <p className="a-desc">
                     My name is Pham Nguyen Thanh Nghiem. 
                     I major in Electrical Engineering at International University - Vietnam National University. 
-                    I am strong at algorithms, Data Struture, Data Business Analysis, C-Programing, SQL and tackling problems. 
+                    I am strong at algorithms, Data Struture, TypeScrtip, JavaScript, Node.JS, React.JS, C-Programing, SQL and tackling problems. 
                     Besides, strong at English for communication with teammates and customers (IELTS 5.5).
                 </p>
                 <div className="a-award">
