@@ -9,7 +9,7 @@ const About = () => {
                 <div className="a-card">
                     {/* Photographer image */}
                     <img 
-                        src="https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" 
+                        src="https://source.unsplash.com/RSvJQ-IP_pk/" 
                         alt="" 
                         className="a-img" 
                     />
@@ -23,9 +23,14 @@ const About = () => {
                 </p>
                 <p className="a-desc">
                     My name is Pham Nguyen Thanh Nghiem. 
-                    I major in Electrical Engineering at International University - Vietnam National University. 
-                    I am strong at algorithms, Data Struture, TypeScrtip, JavaScript, Node.JS, React.JS, C-Programing, SQL and tackling problems. 
-                    Besides, strong at English for communication with teammates and customers (IELTS 5.5).
+                    I major in Electrical Engineering at International University - Vietnam National University. I am a Software Engineering
+                    My focus about algorithms, Data Struture, TypeScrtip, JavaScript, Node.JS, React.JS, C-Programing, SQL and tackling problems. 
+                    Besides, strong at English for communication with teammates and customers (IELTS 5.5). I am a Business Analysis also, making business plan, idea growing and 
+                    contact with customer are my strength as a path.
+                </p>
+
+                <p className="s-desc">
+                I am a person who loves cars and I am also a person who loves to travel. My dream is to go everywhere with the car that I love.
                 </p>
                 <div className="a-award">
                     <img src={Award} alt="" className="a-award-img" />

@@ -55,6 +55,12 @@
 
 .a-desc{
     font-weight: 300;
+    display: flex;
+    margin: 20px 0px;
+}
+
+.s-desc{
+    font-weight: 300;
 }
 
 .a-award{
